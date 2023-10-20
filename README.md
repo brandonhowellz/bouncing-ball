@@ -1,6 +1,6 @@
 # bouncing-ball
 <h1>Bouncing Ball</h1>
-
+![vino map gif](https://github.com/brandonhowellz/bouncing-ball/blob/main/bouncing-ball.gif)
 ## Description
 Bouncing Ball is a program that is a challenge assignment to enable the student to think like a programmer
 
