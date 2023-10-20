@@ -1,5 +1,6 @@
 # bouncing-ball
 <h1>Bouncing Ball</h1>
+
 ![vino map gif](https://github.com/brandonhowellz/bouncing-ball/blob/main/bouncing-ball.gif)
 
 ## Description
