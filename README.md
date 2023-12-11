@@ -21,5 +21,6 @@ Upgrade 2D animation to 3D animation.
 
 ## License information
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 Bouncing Ball is free, open source, and GPL friendly. You can use it for
 commercial projects, open source projects.
